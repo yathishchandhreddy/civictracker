@@ -1,0 +1,6 @@
+{
+  "name": "CivicTrack",
+  "description": "Unified smart mobility and civic reporting platform for Tier-2/3 cities, featuring real-time transit simulation, commuter proximity alerts, and AI-driven civic reporting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
